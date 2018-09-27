@@ -24,6 +24,7 @@
 - hover över tabeller/funktioner triggar popup med definition
 - snabb-aggregat (typ summa, max, min, antal) i statusbaren vid markering av fler celler (excel style :)
 - få dit antal rader för ett resultset på något smart ställe, irriterande att inte kunna se det direkt i gridden
+- notification när en slö query blir klar (om man cmd-tabbat iväg?)
 
 WON IDEAS:
 - hamburgler knapp på gridden
